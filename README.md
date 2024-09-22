@@ -1,5 +1,8 @@
 # Youtube 모바일 환경 클론 프로젝트
 
+# 이동하기
+https://minseo31.github.io/Youtube/
+
 ## 개발 개요 📜
 - 소셜 미디어 플랫폼 Youtube의 모바일 서비스 환경을 동일하게 구현한 프로젝트 입니다.
 
